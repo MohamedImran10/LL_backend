@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'rest_framework',
     'corsheaders',
     'authentication',
+    'flight_agent',
 ]
 
 MIDDLEWARE = [
